@@ -14,17 +14,16 @@
     "nodemon": "^2.0.20"
   },
   "dependencies": {
+    "@xmldom/xmldom": "^0.8.3",
     "body-parser": "^1.20.0",
     "chalk": "^2.4.2",
     "each-async": "^2.0.0",
     "ejs": "^3.1.8",
     "express": "^4.18.1",
     "express-ejs-layouts": "^2.5.1",
-    "heroku": "^7.65.0",
-    "heroku-cli": "^6.16.18",
-    "heroku-git": "^2.5.23",
     "indent-string": "^4.0.0",
     "mogoose": "*",
-    "mongoose": "^6.6.3"
+    "mongoose": "^6.6.3",
+    "plist": "^3.0.6"
   }
 }
